@@ -43,4 +43,11 @@ Countries included: India, USA, UK, Brazil, Germany, France, Italy, China
 
 Visualizations
 ChartLibraryDescriptionTrend LinematplotlibConfirmed cases aggregated by dateBar ChartseabornTotal confirmed cases per countryPie ChartmatplotlibCountry share of total casesScatter PlotseabornConfirmed vs. Deaths colored by countryHeatmapseabornCorrelation between Confirmed, Deaths, Recovered, ActiveInteractive LineplotlyZoomable/hoverable trend chart
+ output review :
+ <img width="597" height="438" alt="image" src="https://github.com/user-attachments/assets/7cc166e9-bdc5-465b-a5eb-040dac86fd9a" />
+<img width="846" height="588" alt="image" src="https://github.com/user-attachments/assets/74a480c9-3f60-4fe5-abfc-bb0d2145865a" />
+<img width="915" height="658" alt="image" src="https://github.com/user-attachments/assets/65733370-37fe-43bb-8587-2b8d616407b9" />
+<img width="859" height="547" alt="image" src="https://github.com/user-attachments/assets/2280704a-a6f1-4b46-abe0-72a5072bb3bf" />
+<img width="625" height="528" alt="image" src="https://github.com/user-attachments/assets/bd2318a3-aeec-4741-bfc3-090e534c45a8" />
+
 
